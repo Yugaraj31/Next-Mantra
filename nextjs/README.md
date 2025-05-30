@@ -28,9 +28,12 @@ This project is a simple blog application built using **Next.js (App Router)** a
 ### 1️⃣ Clone the repo
 
 ```bash
-git clone https://github.com/your-username/next-strapi-blog.git
-cd nextmantra
+git clone https://github.com/Yugaraj31/Next-Mantra.git
+cd Next-Mantra
 
+open two terminal
+cd nextjs
+cd strapi
 
 Strapi Setup
 📁 Navigate to the strapi-backend folder (create it if needed):
